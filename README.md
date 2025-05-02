@@ -2,6 +2,7 @@
 
 Este projeto é parte de um laboratório prático desenvolvido para análise de vendas globais. O objetivo foi criar um dashboard interativo com KPIs e visualizações que auxiliam a tomada de decisão.
 
+![Lab1](https://github.com/user-attachments/assets/f6db2260-7f18-45fa-b137-eb0e3bcb589e)
 
 ## 🔧 Ferramentas Utilizadas
 
